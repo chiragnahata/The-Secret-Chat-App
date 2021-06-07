@@ -1,7 +1,7 @@
 # The Secret Chat App
 
-## Say "hello" to a different messaging experience and a new era of messaging. An unexpected focus on privacy, combined with all of the features you expect. Simple. Secure.
-## Reliable messaging.
+## Say "hello" to a different messaging experience and a new era of messaging. An unexpected focus on privacy, combined with all of the features you expect. 
+### Simple. Secure. Reliable messaging.
 
 Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Secret Chat’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
