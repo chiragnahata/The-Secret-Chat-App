@@ -34,5 +34,3 @@ Document Sharing Made Easy - Send PDFs, documents, spreadsheets, slideshows and 
 • Picture this – Use the built-in image editing features to sketch, crop, and flip your outgoing photos. There’s even a text tool so that you can add more words to the 1,000 that your picture is already worth.
 
 • Expressive - Telegram lets you completely customize your messenger.
-
-Download - https://files.appsgeyser.com/Secret%20Chat_12667905.apk
